@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingShoesBaseButcherable
+  id: ClothingShoesHeelsWhite
+  name: Белые каблуки
+  description: Стильно, модно.
+  components:
+  - type: Sprite
+    sprite: SpaceLabs/Clothing/Shoes/Heels/white_heels.rsi
+  - type: Clothing
+    sprite: SpaceLabs/Clothing/Shoes/Heels/white_heels.rsi

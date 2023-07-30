@@ -17,6 +17,15 @@
     ClothingOuterPlagueSuit: 1
     ClothingMaskPlague: 1
     ClothingHeadsetService: 2
+    #SpaceLabs-start
+    ClothingHandsRingWeddingGold: 2
+    ClothingHeadOtherWedVeil: 2
+    ClothingOuterDressWedding: 2
+    ClothingShoesHeelsWhite: 2
+    ClothingUniformJumpsuitTuxedo: 2
+    ClothingShoesBootsLaceup: 2
+    PoppyBouquet: 1
+    #SpaceLabs-end  
   emaggedInventory:
     ClothingOuterArmorCult: 1
     ClothingHeadHelmetCult: 1

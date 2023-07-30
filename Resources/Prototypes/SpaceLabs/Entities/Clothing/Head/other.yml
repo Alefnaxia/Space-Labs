@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadOtherWedVeil
+  name: Свадебная пелена
+  description: 'бархатная'
+  components:
+  - type: Sprite
+    sprite: SpaceLabs/Clothing/Head/Other/wed_veil.rsi
+  - type: Clothing
+    sprite: SpaceLabs/Clothing/Head/Other/wed_veil.rsi

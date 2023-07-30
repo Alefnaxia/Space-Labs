@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitTuxedo
+  name: Смокинг
+  description: Костюм дисциплинирует мужчину, внутренне организует.
+  components:
+  - type: Sprite
+    sprite: SpaceLabs/Clothing/Uniforms/Jumpsuit/tuxedo.rsi
+  - type: Clothing
+    sprite: SpaceLabs/Clothing/Uniforms/Jumpsuit/tuxedo.rsi
