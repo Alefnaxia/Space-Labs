@@ -1,0 +1,65 @@
+- type: entity
+  save: false
+  name: Урист МакВуф
+  parent: BaseMobHuman
+  id: BaseMobVulpkanin
+  abstract: true
+  components:
+  - type: HumanoidAppearance
+    species: Vulpkanin
+  - type: Hunger
+    starvationDamage:
+      types:
+        Cold: 1
+  - type: Thirst
+  - type: Icon
+    sprite: SpaceLabs/Mobs/Species/Vulpkanin/parts.rsi
+    state: full
+  - type: Body
+    prototype: Vulpkanin
+    requiredLegs: 2
+  - type: Vocal
+    sounds:
+      Male: MaleHuman
+      Female: FemaleHuman
+      Unsexed: FemaleHuman
+  - type: Damageable
+    damageContainer: Biological
+    damageModifierSet: Vulpkanin
+  - type: MeleeWeapon
+    hidden: true
+    soundHit:
+      path: /Audio/Weapons/Xeno/alien_claw_flesh2.ogg
+    angle: 30
+    animation: WeaponArcClaw
+    damage:
+      types:
+        Piercing: 5
+        Slash: 3
+  - type: Flammable
+    damage:
+      types:
+        Heat: 3
+  - type: MobState
+  - type: MobThresholds
+    thresholds:
+      0: Alive
+      125: Critical
+      225: Dead
+  - type: Stamina
+    excess: 145
+  - type: MovementSpeedModifier
+    baseWalkSpeed: 2.0
+    baseSprintSpeed: 3.7
+  - type: Perishable
+
+- type: entity
+  save: false
+  name: Vulp Dummy
+  parent: MobHumanDummy
+  id: MobVulpkaninDummy
+  noSpawn: true
+  description: A dummy Vulpkanin meant to be used in character setup.
+  components:
+  - type: HumanoidAppearance
+    species: Vulpkanin
