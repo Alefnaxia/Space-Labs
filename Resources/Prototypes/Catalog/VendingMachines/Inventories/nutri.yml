@@ -13,7 +13,10 @@
     Syringe: 5
     RobustHarvestChemistryBottle: 3
     Bucket: 3
-    DiseaseSwab: 20
-    #TO DO:
+    #DiseaseSwab: 20
+    #SpaceLabs-start
+    BoxMouthSwab: 1
+    Dropper: 2
+    #SpaceLabs-end
+    #TODO:
     #plant analyzer
-
