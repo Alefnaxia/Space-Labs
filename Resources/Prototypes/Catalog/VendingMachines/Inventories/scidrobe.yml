@@ -7,6 +7,9 @@
     ClothingUniformJumpsuitScientist: 3
     ClothingUniformJumpskirtScientist: 3
     ClothingUniformJumpsuitScientistFormal: 3
+    #SpaceLabs-start
+    ClothingHandsGlovesLatex: 3
+    #SpaceLabs-end
     ClothingOuterCoatRnd: 3
     ClothingShoesColorWhite: 3
     ClothingNeckTieSci: 3
