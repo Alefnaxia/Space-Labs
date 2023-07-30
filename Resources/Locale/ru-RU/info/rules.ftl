@@ -1,6 +1,6 @@
 # Rules
 
-ui-rules-header = Правила сервера Corvax
-ui-rules-header-rp = Правила сервера Corvax
+ui-rules-header = Правила сервера 𝙎𝙥𝙖𝙘𝙚 🪐 𝙇𝙖𝙗𝙨
+ui-rules-header-rp = Правила сервера 𝙎𝙥𝙖𝙘𝙚 🪐 𝙇𝙖𝙗𝙨
 ui-rules-accept = Я ознакомился и согласен следовать правилам
 ui-rules-wait = Кнопка принятия будет разблокирована через { $time } секунд.
