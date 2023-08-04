@@ -1,0 +1,12 @@
+- type: construction
+  name: poppy bouquet
+  id: poppybouquet
+  graph: poppybouquet
+  startNode: start
+  targetNode: poppybouquet
+  category: construction-category-misc
+  description: "nice bouquet of poppies"
+  icon:
+    sprite: SpaceLabs/Objects/Other/poppy_bouquet.rsi
+    state: icon
+  objectType: Item

@@ -3,29 +3,26 @@
   bodyPart: HeadTop
   markingCategory: HeadTop
   speciesRestriction: [SlimePerson]
-  sponsorOnly: true # Corvax-Sponsors
   sprites:
   - sprite: Corvax/Mobs/Customization/slime_cat_parts.rsi
     state: ears_slime_cat_outer
   - sprite: Corvax/Mobs/Customization/slime_cat_parts.rsi
     state: ears_slime_cat_inner
 
-- type: marking
-  id: SlimeCatTail # Again, why not?
-  bodyPart: Tail
-  markingCategory: Tail
-  speciesRestriction: [SlimePerson]
-  sponsorOnly: true # Corvax-Sponsors
-  sprites:
-  - sprite: Corvax/Mobs/Customization/slime_cat_parts.rsi
-    state: slime_tail_cat_wag # Corvax-Sponsors
+#- type: marking
+#  id: SlimeCatTail # Again, why not?
+#  bodyPart: Tail
+#  markingCategory: Tail
+#  speciesRestriction: [SlimePerson]
+#  sprites:
+#  - sprite: Corvax/Mobs/Customization/slime_cat_parts.rsi
+#    state: slime_tail_cat_wag
 
 - type: marking
   id: SlimeCatEarsStubby
   bodyPart: HeadTop
   markingCategory: HeadTop
   speciesRestriction: [SlimePerson]
-  sponsorOnly: true # Corvax-Sponsors
   sprites:
   - sprite: Corvax/Mobs/Customization/slime_cat_parts.rsi
     state: ears_slime_stubby_outer
@@ -37,7 +34,6 @@
   bodyPart: HeadTop
   markingCategory: HeadTop
   speciesRestriction: [SlimePerson]
-  sponsorOnly: true # Corvax-Sponsors
   sprites:
   - sprite: Corvax/Mobs/Customization/slime_cat_parts.rsi
     state: ears_slime_curled_outer
@@ -49,21 +45,19 @@
   bodyPart: HeadTop
   markingCategory: HeadTop
   speciesRestriction: [SlimePerson]
-  sponsorOnly: true # Corvax-Sponsors
   sprites:
   - sprite: Corvax/Mobs/Customization/slime_cat_parts.rsi
     state: ears_slime_torn_outer
   - sprite: Corvax/Mobs/Customization/slime_cat_parts.rsi
     state: ears_slime_torn_inner
 
-- type: marking
-  id: SlimeCatTailStripes
-  bodyPart: Tail
-  markingCategory: Tail
-  speciesRestriction: [SlimePerson]
-  sponsorOnly: true # Corvax-Sponsors
-  sprites:
-    - sprite: Corvax/Mobs/Customization/slime_cat_parts.rsi
-      state: slime_tail_cat_wag_stripes_prime
-    - sprite: Corvax/Mobs/Customization/slime_cat_parts.rsi
-      state: slime_tail_cat_wag_stripes_second
+#- type: marking
+#  id: SlimeCatTailStripes
+#  bodyPart: Tail
+#  markingCategory: Tail
+#  speciesRestriction: [SlimePerson]
+#  sprites:
+#    - sprite: Corvax/Mobs/Customization/slime_cat_parts.rsi
+#      state: slime_tail_cat_wag_stripes_prime
+#    - sprite: Corvax/Mobs/Customization/slime_cat_parts.rsi
+#      state: slime_tail_cat_wag_stripes_second

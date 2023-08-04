@@ -1,0 +1,101 @@
+- type: entity
+  save: false
+  name: Урист МакФлай
+  parent: BaseMobOrganic
+  id: BaseMobMoth
+  abstract: true
+  components:
+  - type: HumanoidAppearance
+    species: Moth
+  - type: Hunger
+    starvationDamage:
+      types:
+        Cold: 1
+  - type: Thirst
+  - type: Icon
+    sprite: SpaceLabs/Mobs/Species/Moth/parts.rsi
+    state: full
+  - type: Sprite
+    noRot: true
+    drawdepth: Mobs
+    scale: 0.8, 0.8
+  - type: Body
+    prototype: Moth
+    requiredLegs: 2
+  - type: Speech
+    speechSounds: Tenor
+  - type: TypingIndicator
+    proto: moth
+  - type: Vocal
+    wilhelm: "/Audio/SpaceLabs/Voice/Moth/scream_moth.ogg"
+    sounds:
+      Male: MaleMoth
+      Female: FemaleMoth
+      Unsexed: MaleMoth
+  - type: Damageable
+    damageContainer: Biological
+    damageModifierSet: Moff
+  - type: Flammable
+    damage:
+      types:
+        Heat: 2
+  - type: MeleeWeapon
+    soundHit:
+      collection: Punch
+    animation: WeaponArcClaw
+    damage:
+      types:
+        Piercing: 1
+        Poison: 5
+  - type: MobState
+  - type: MobThresholds
+    thresholds:
+      0: Alive
+      75: Critical
+      175: Dead
+  - type: Temperature
+    heatDamageThreshold: 330
+    coldDamageThreshold: 212
+    currentTemperature: 310.15
+    specificHeat: 46
+    coldDamage:
+      types:
+        Cold : 0.05 #per second, scales with temperature & other constants
+    heatDamage:
+      types:
+        Heat : 0.25 #per second, scales with temperature & other constants
+  - type: MovementSpeedModifier
+    baseWalkSpeed : 2.7
+    baseSprintSpeed : 5
+  - type: Perishable
+  - type: MovementAlwaysTouching
+  - type: Fixtures
+    fixtures:
+      fix1:
+        shape:
+          !type:PhysShapeCircle
+          radius: 0.35
+        # they r smaller
+        density: 120
+        restitution: 0.0
+        mask:
+        - MobMask
+        layer:
+        - MobLayer
+
+- type: entity
+  save: false
+  name: Moth Dummy
+  parent: MobHumanDummy
+  id: MobMothDummy
+  noSpawn: true
+  description: A dummy moth meant to be used in character setup.
+  components:
+  - type: HumanoidAppearance
+    species: Moth
+  - type: Sprite
+    noRot: true
+    drawdepth: Mobs
+    scale: 0.8, 0.8
+
+#Weh

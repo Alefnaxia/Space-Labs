@@ -1,0 +1,69 @@
+- type: entity
+  save: false
+  name: Урист МакНян
+  parent: BaseMobOrganic
+  id: BaseMobFelinid
+  abstract: true
+  components:
+  - type: HumanoidAppearance
+    species: Felinid
+  - type: Hunger
+    starvationDamage:
+      types:
+        Cold: 1
+  - type: Thirst
+  - type: Icon
+    sprite: Mobs/Species/Human/parts.rsi
+    state: full
+  - type: Body
+    prototype: Felinid
+    requiredLegs: 2
+  - type: Butcherable
+    butcheringType: Spike
+    spawned:
+    - id: FoodMeatHuman
+      amount: 5
+  - type: OwOAccent
+  - type: Speech
+    speechSounds: Alto
+  - type: Vocal
+    wilhelm: "/Audio/Voice/Felinid/cat_wilhelm.ogg"
+    sounds:
+      Male: MaleFelinid
+      Female: FemaleFelinid
+      Unsexed: MaleFelinid
+  - type: Damageable
+    damageContainer: Biological
+    damageModifierSet: Felinid
+  - type: MeleeWeapon
+    soundHit:
+      collection: Punch
+    animation: WeaponArcClaw
+    damage:
+      types:
+        Piercing: 1
+        Slash: 3
+    naturalImmunities:
+    - OwOnavirus
+  - type: Thieving
+    stealthy: true
+    stripTimeReduction: 1
+    soundHit:
+      path: /Audio/Effects/hit_kick.ogg
+  - type: Stamina
+    excess: 75
+  - type: MovementSpeedModifier
+    baseWalkSpeed : 2.7
+    baseSprintSpeed : 4.8
+  - type: Perishable
+
+- type: entity
+  save: false
+  name: Felinid Dummy
+  parent: MobHumanDummy
+  id: MobFelinidDummy
+  noSpawn: true
+  description: A dummy felinid meant to be used in character setup.
+  components:
+  - type: HumanoidAppearance
+    species: Felinid

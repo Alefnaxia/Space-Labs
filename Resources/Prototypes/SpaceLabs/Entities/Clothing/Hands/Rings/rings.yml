@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingHandsBase
+  id: ClothingHandsRingWeddingGold
+  name: Золотое обручальное кольцо
+  description: Обручальное кольцо - это или спасательный круг, или хомут на шею.
+  components:
+  - type: Sprite
+    sprite: SpaceLabs/Clothing/Hands/Rings/gold_ring.rsi
+  - type: Clothing
+    sprite: SpaceLabs/Clothing/Hands/Rings/gold_ring.rsi

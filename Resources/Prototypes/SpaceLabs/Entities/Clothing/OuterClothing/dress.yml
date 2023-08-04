@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingOuterBase
+  id: ClothingOuterDressWedding
+  name: Свадебное платье
+  description: В этом платье кроется всё очарование и прелесть, потому что оно – свадебное.
+  components:
+  - type: Sprite
+    sprite: SpaceLabs/Clothing/OuterClothing/Dress/wed_dress.rsi
+  - type: Clothing
+    sprite: SpaceLabs/Clothing/OuterClothing/Dress/wed_dress.rsi

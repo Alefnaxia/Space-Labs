@@ -1,0 +1,15 @@
+- type: entity
+  parent: BaseItem
+  id: PoppyBouquet
+  name: маковый букет
+  description: Приятно пахнущий маковый букет.
+  components:
+    - type: Sprite
+      sprite: SpaceLabs/Objects/Other/poppy_bouquet.rsi
+      layers:
+        - state: icon
+          shader: unshaded
+    - type: Item
+      size: 5
+      sprite: SpaceLabs/Objects/Other/poppy_bouquet.rsi
+    - type: Appearance

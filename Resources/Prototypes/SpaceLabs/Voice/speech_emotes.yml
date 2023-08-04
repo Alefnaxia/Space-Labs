@@ -1,0 +1,154 @@
+ - type: emote
+   id: Hiss
+   category: Vocal
+   chatMessages: [шипит]
+   chatTriggers:
+     - hiss
+     - hisses
+     - hisses.
+     - hisses!
+     - hissing
+     - hissed
+     # Space-Labs-Localization-Start
+     - шипит
+     - шипеть
+     # Space-Labs-Localization-End
+
+ - type: emote
+   id: Meow
+   category: Vocal
+   chatMessages: [мяукает]
+   chatTriggers:
+     - meow
+     - meows
+     - meows.
+     - meows!
+     - meowing
+     - meowed
+     - miau
+     - miaus
+     - miaus.
+     - miaus!
+     - nya
+     - nyas
+     - nyas.
+     - nyas!
+     # Space-Labs-Localization-Start
+     - мяу
+     - мяукает
+     - мяукать
+     # Space-Labs-Localization-End
+
+ - type: emote
+   id: Mew
+   category: Vocal
+   chatMessages: [мявкает]
+   chatTriggers:
+     - mew
+     - mews
+     - mews.
+     - mews!
+     - mewing
+     - mewed
+     # Space-Labs-Localization-Start
+     - мяв
+     - мявкает
+     - мявкать
+     # Space-Labs-Localization-End
+
+ - type: emote
+   id: Growl
+   category: Vocal
+   chatMessages: [рычит]
+   chatTriggers:
+     - growl
+     - growls
+     - growls.
+     - growls!
+     - growling
+     - growled
+     # Space-Labs-Localization-Start
+     - рычит
+     - рык
+     - рычать
+     # Space-Labs-Localization-End
+
+ - type: emote
+   id: Purr
+   category: Vocal
+   chatMessages: [мурчит]
+   chatTriggers:
+     - purr
+     - purrs
+     - purrs.
+     - purrs!
+     - purring
+     - purred
+     # Space-Labs-Localization-Start
+     - мурчит
+     - мурчать
+     - мурчит
+     - мур
+     - мурчать
+     - мурлыкать
+     - мурчит
+     - мурлыкает
+     - мурлычет
+     # Space-Labs-Localization-End
+
+
+ - type: emote
+   id: Squeak
+   category: Vocal
+   chatMessages: [пищит]
+   chatTriggers:
+    - squeak
+    - squeak.
+    - squeak!
+    - squeaks
+    - squeaks.
+    - squeaks!
+    - squeaking
+    - squeaking.
+    - squeaking!
+    - squeaked
+    - squeaked.
+    - squeaked!
+    # Space-labs-Localization Start
+    - пищит
+    - пищать
+    - писк
+    # Space-Labs-Localization-End
+
+ - type: emote
+   id: Chitter
+   category: Vocal
+   chatMessages: [Щебечет.]
+   chatTriggers:
+     - chitter
+     - chitter.
+     - chitter!
+     - chitters
+     - chitters.
+     - chitters!
+     - chittering
+     - chittering.
+     - chittering!
+     - chittered
+     - chittered.
+     - chittered!
+     # Space-labs-Localization-Start
+     - Щебечет
+     - Щебетать
+     # Space-labs-Localization-End
+
+
+ - type: emote
+   id: Bark
+   category: Vocal
+   chatMessages: [гавкает.]
+   chatTriggers:
+     - Гав
+     - Гавкает
+     - Лает
+     - Вуф

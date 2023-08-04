@@ -128,6 +128,8 @@ public sealed partial class ChatSystem
         { "фрикилл", "плохо" },
         { "лкм", "левая рука" },
         { "пкм", "правая рука" },
+        //SpaceLabs
+        { "рнд", "НИО" },
     };
 
     private string ReplaceWords(string message)
