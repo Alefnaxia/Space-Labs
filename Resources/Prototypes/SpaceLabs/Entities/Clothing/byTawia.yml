@@ -19,8 +19,8 @@
   - type: Clothing
     sprite: Clothing/Uniforms/Jumpskirt/bluebowdress.rsi
 - type: entity
-  parent: ClothingUniformSkirtBase
-  id: ClothingUniformJumpskirtluxuriantdress
+  parent: ClothingOuterBase
+  id: ClothingOuterDressluxuriantdress
   name: Пышное платье
   description: Платье, демонстрирующее роскошь и выдержку владельца.
   components:
