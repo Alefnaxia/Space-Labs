@@ -53,11 +53,6 @@
   copyright: "Buryatus#8143 (353797088007684097) on discord"
   source: "https://github.com/space-syndicate/space-station-14"
 
-- files: ["russellmart.png"]
-  license: "CC-BY-SA-3.0"
-  copyright: "Russell#3212 (269179522744713220) on discord"
-  source: "https://github.com/space-syndicate/space-station-14"
-
 - files: ["nukies-here.png"]
   license: "CC-BY-SA-3.0"
   copyright: "bib#5784 (807870054598967296) on discord"
@@ -68,19 +63,9 @@
   copyright: "Gasper_horned#9372 (428967480057397260) on discord"
   source: "https://github.com/space-syndicate/space-station-14"
 
-- files: ["detective.png", "sidor.png"]
-  license: "CC-BY-SA-3.0"
-  copyright: "Kukurudznik#0103 (513319174794248192) on discord"
-  source: "https://github.com/space-syndicate/space-station-14"
-
 - files: ["maintenance-clown.png"]
   license: "CC-BY-SA-3.0"
   copyright: "Nijn#5581 (436971507923681290) on discord"
-  source: "https://github.com/space-syndicate/space-station-14"
-
-- files: ["greytide.png"]
-  license: "CC-BY-SA-3.0"
-  copyright: "Giliof#5213 (412634509901824005) on discord"
   source: "https://github.com/space-syndicate/space-station-14"
 
 - files: ["dead-in-space.png"]
