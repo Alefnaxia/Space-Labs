@@ -8,3 +8,13 @@
     sprite: SpaceLabs/Clothing/OuterClothing/Dress/wed_dress.rsi
   - type: Clothing
     sprite: SpaceLabs/Clothing/OuterClothing/Dress/wed_dress.rsi
+- type: entity
+  parent: ClothingOuterBase
+  id: ClothingOuterDressluxuriantdress
+  name: Пышное платье
+  description: Платье, демонстрирующее роскошь и выдержку владельца.
+  components:
+  - type: Sprite
+    sprite: SpaceLabs/Clothing/OuterClothing/Dress/luxuriantdress.rsi
+  - type: Clothing
+    sprite: SpaceLabs/Clothing/OuterClothing/Dress/luxuriantdress.rsi
