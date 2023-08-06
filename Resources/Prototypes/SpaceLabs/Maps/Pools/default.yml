@@ -1,0 +1,15 @@
+- type: gameMapPool
+  id: SpaceLabsDefaultMapPool
+  - CorvaxBox
+  - CorvaxIshimura
+  - Aspid
+  - Bagel
+  - Cluster
+  - Core
+  - Fland
+  - Kettle
+  - Marathon
+  - Meta
+  - Omega
+  - Origin
+  - Saltern
