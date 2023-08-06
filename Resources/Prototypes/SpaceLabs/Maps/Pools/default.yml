@@ -1,5 +1,6 @@
 - type: gameMapPool
   id: SpaceLabsDefaultMapPool
+  maps:
   - CorvaxBox
   - CorvaxIshimura
   - Aspid
