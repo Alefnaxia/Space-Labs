@@ -7,221 +7,309 @@
   id: MothAntennasPlain
   bodyPart: HeadTop
   markingCategory: HeadTop
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_antennas.rsi
     state: plain
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothAntennasReddish
   bodyPart: HeadTop
   markingCategory: HeadTop
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_antennas.rsi
     state: reddish
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothAntennasRoyal
   bodyPart: HeadTop
   markingCategory: HeadTop
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_antennas.rsi
     state: royal
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothAntennasGothic
   bodyPart: HeadTop
   markingCategory: HeadTop
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_antennas.rsi
     state: gothic
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothAntennasLovers
   bodyPart: HeadTop
   markingCategory: HeadTop
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_antennas.rsi
     state: lovers
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothAntennasWhitefly
   bodyPart: HeadTop
   markingCategory: HeadTop
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_antennas.rsi
     state: whitefly
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothAntennasFirewatch
   bodyPart: HeadTop
   markingCategory: HeadTop
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_antennas.rsi
     state: firewatch
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothAntennasDeathshead
   bodyPart: HeadTop
   markingCategory: HeadTop
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_antennas.rsi
     state: deathshead
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothAntennasPoison
   bodyPart: HeadTop
   markingCategory: HeadTop
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_antennas.rsi
     state: poison
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothAntennasMoonfly
   bodyPart: HeadTop
   markingCategory: HeadTop
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_antennas.rsi
     state: moonfly
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothAntennasSnow
   bodyPart: HeadTop
   markingCategory: HeadTop
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_antennas.rsi
     state: snow
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothAntennasOakworm
   bodyPart: HeadTop
   markingCategory: HeadTop
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_antennas.rsi
     state: oakworm
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothAntennasWitchking
   bodyPart: HeadTop
   markingCategory: HeadTop
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_antennas.rsi
     state: witchking
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothAntennasJungle
   bodyPart: HeadTop
   markingCategory: HeadTop
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_antennas.rsi
     state: jungle
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothAntennasRegal
   bodyPart: HeadTop
   markingCategory: HeadTop
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_antennas.rsi
     state: regal
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothAntennasRosy
   bodyPart: HeadTop
   markingCategory: HeadTop
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_antennas.rsi
     state: rosy
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothAntennasFeathery
   bodyPart: HeadTop
   markingCategory: HeadTop
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_antennas.rsi
     state: feathery
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothAntennasBrown
   bodyPart: HeadTop
   markingCategory: HeadTop
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_antennas.rsi
     state: brown
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothAntennasPlasmafire
   bodyPart: HeadTop
   markingCategory: HeadTop
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_antennas.rsi
     state: plasmafire
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothAntennasMoffra
   bodyPart: HeadTop
   markingCategory: HeadTop
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_antennas.rsi
     state: moffra
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothAntennasAspen
   bodyPart: HeadTop
   markingCategory: HeadTop
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_antennas.rsi
     state: aspen
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothAntennasMint
   bodyPart: HeadTop
   markingCategory: HeadTop
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_antennas.rsi
     state: mint
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 #
 # Wings
@@ -231,251 +319,351 @@
   id: MothWingsPlain
   bodyPart: Tail
   markingCategory: Tail
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_wings.rsi
     state: plain
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothWingsAtlas
   bodyPart: Tail
   markingCategory: Tail
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_wings.rsi
     state: atlas
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothWingsLuna
   bodyPart: Tail
   markingCategory: Tail
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_wings.rsi
     state: luna
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothWingsMonarch
   bodyPart: Tail
   markingCategory: Tail
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_wings.rsi
     state: monarch
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothWingsReddish
   bodyPart: Tail
   markingCategory: Tail
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_wings.rsi
     state: reddish
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothWingsRoyal
   bodyPart: Tail
   markingCategory: Tail
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_wings.rsi
     state: royal
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothWingsGothic
   bodyPart: Tail
   markingCategory: Tail
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_wings.rsi
     state: gothic
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothWingsLovers
   bodyPart: Tail
   markingCategory: Tail
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_wings.rsi
     state: lovers
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothWingsWhitefly
   bodyPart: Tail
   markingCategory: Tail
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_wings.rsi
     state: whitefly
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothWingsFirewatch
   bodyPart: Tail
   markingCategory: Tail
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_wings.rsi
     state: firewatch
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothWingsDeathshead
   bodyPart: Tail
   markingCategory: Tail
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_wings.rsi
     state: deathshead
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothWingsPoison
   bodyPart: Tail
   markingCategory: Tail
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_wings.rsi
     state: poison
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothWingsRagged
   bodyPart: Tail
   markingCategory: Tail
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_wings.rsi
     state: ragged
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothWingsMoonfly
   bodyPart: Tail
   markingCategory: Tail
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_wings.rsi
     state: moonfly
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothWingsSnow
   bodyPart: Tail
   markingCategory: Tail
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_wings.rsi
     state: snow
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothWingsOakworm
   bodyPart: Tail
   markingCategory: Tail
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_wings.rsi
     state: oakworm
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothWingsWitchking
   bodyPart: Tail
   markingCategory: Tail
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_wings.rsi
     state: witchking
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothWingsJungle
   bodyPart: Tail
   markingCategory: Tail
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_wings.rsi
     state: jungle
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothWingsRosy
   bodyPart: Tail
   markingCategory: Tail
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_wings.rsi
     state: rosy
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothWingsFeathery
   bodyPart: Tail
   markingCategory: Tail
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_wings.rsi
     state: feathery
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothWingsBrown
   bodyPart: Tail
   markingCategory: Tail
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_wings.rsi
     state: brown
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothWingsPlasmafire
   bodyPart: Tail
   markingCategory: Tail
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_wings.rsi
     state: plasmafire
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothWingsMoffra
   bodyPart: Tail
   markingCategory: Tail
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_wings.rsi
     state: moffra
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothWingsAspen
   bodyPart: Tail
   markingCategory: Tail
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_wings.rsi
     state: aspen
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothWingsMint
   bodyPart: Tail
   markingCategory: Tail
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_wings.rsi
     state: mint
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 #
 # Markings
@@ -488,790 +676,1096 @@
   id: MothMarkingsReddishHead
   bodyPart: Head
   markingCategory: Head
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/reddish.rsi
     state: head
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsReddishChest
   bodyPart: Chest
   markingCategory: Chest
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/reddish.rsi
     state: chest
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsReddishLeftArm
   bodyPart: LHand
   markingCategory: Arms
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/reddish.rsi
     state: leftarm
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsReddishRightArm
   bodyPart: RHand
   markingCategory: Arms
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/reddish.rsi
     state: rightarm
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsReddishLeftLeg
   bodyPart: LFoot
   markingCategory: Legs
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/reddish.rsi
     state: leftleg
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsReddishRightLeg
   bodyPart: RFoot
   markingCategory: Legs
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/reddish.rsi
     state: rightleg
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 # Royal
 - type: marking
   id: MothMarkingsRoyalHead
   bodyPart: Head
   markingCategory: Head
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/royal.rsi
     state: head
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsRoyalChest
   bodyPart: Chest
   markingCategory: Chest
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/royal.rsi
     state: chest
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsRoyalLeftArm
   bodyPart: LHand
   markingCategory: Arms
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/royal.rsi
     state: leftarm
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsRoyalRightArm
   bodyPart: RHand
   markingCategory: Arms
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/royal.rsi
     state: rightarm
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsRoyalLeftLeg
   bodyPart: LFoot
   markingCategory: Legs
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/royal.rsi
     state: leftleg
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsRoyalRightLeg
   bodyPart: RFoot
   markingCategory: Legs
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/royal.rsi
     state: rightleg
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 # Gothic
 - type: marking
   id: MothMarkingsGothicHead
   bodyPart: Head
   markingCategory: Head
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/gothic.rsi
     state: head
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsGothicChest
   bodyPart: Chest
   markingCategory: Chest
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/gothic.rsi
     state: chest
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsGothicLeftArm
   bodyPart: LHand
   markingCategory: Arms
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/gothic.rsi
     state: leftarm
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsGothicRightArm
   bodyPart: RHand
   markingCategory: Arms
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/gothic.rsi
     state: rightarm
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsGothicLeftLeg
   bodyPart: LFoot
   markingCategory: Legs
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/gothic.rsi
     state: leftleg
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsGothicRightLeg
   bodyPart: RFoot
   markingCategory: Legs
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/gothic.rsi
     state: rightleg
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 # Lovers
 - type: marking
   id: MothMarkingsLoversHead
   bodyPart: Head
   markingCategory: Head
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/lovers.rsi
     state: head
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsLoversChest
   bodyPart: Chest
   markingCategory: Chest
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/lovers.rsi
     state: chest
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsLoversLeftArm
   bodyPart: LHand
   markingCategory: Arms
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/lovers.rsi
     state: leftarm
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsLoversRightArm
   bodyPart: RHand
   markingCategory: Arms
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/lovers.rsi
     state: rightarm
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsLoversLeftLeg
   bodyPart: LFoot
   markingCategory: Legs
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/lovers.rsi
     state: leftleg
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsLoversRightLeg
   bodyPart: RFoot
   markingCategory: Legs
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/lovers.rsi
     state: rightleg
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 # Whitefly
 - type: marking
   id: MothMarkingsWhiteflyHead
   bodyPart: Head
   markingCategory: Head
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/whitefly.rsi
     state: head
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsWhiteflyChest
   bodyPart: Chest
   markingCategory: Chest
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/whitefly.rsi
     state: chest
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsWhiteflyLeftArm
   bodyPart: LHand
   markingCategory: Arms
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/whitefly.rsi
     state: leftarm
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsWhiteflyRightArm
   bodyPart: RHand
   markingCategory: Arms
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/whitefly.rsi
     state: rightarm
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsWhiteflyLeftLeg
   bodyPart: LFoot
   markingCategory: Legs
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/whitefly.rsi
     state: leftleg
-
 - type: marking
   id: MothMarkingsWhiteflyRightLeg
   bodyPart: RFoot
   markingCategory: Legs
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/whitefly.rsi
     state: rightleg
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 # Firewatch
 - type: marking
   id: MothMarkingsFirewatchHead
   bodyPart: Head
   markingCategory: Head
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/firewatch.rsi
     state: head
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsFirewatchChest
   bodyPart: Chest
   markingCategory: Chest
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/firewatch.rsi
     state: chest
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsFirewatchLeftArm
   bodyPart: LHand
   markingCategory: Arms
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/firewatch.rsi
     state: leftarm
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsFirewatchRightArm
   bodyPart: RHand
   markingCategory: Arms
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/firewatch.rsi
     state: rightarm
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsFirewatchLeftLeg
   bodyPart: LFoot
   markingCategory: Legs
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/firewatch.rsi
     state: leftleg
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsFirewatchRightLeg
   bodyPart: RFoot
   markingCategory: Legs
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/firewatch.rsi
     state: rightleg
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 # Deathshead
 - type: marking
   id: MothMarkingsDeathsheadHead
   bodyPart: Head
   markingCategory: Head
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/deathshead.rsi
     state: head
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsDeathsheadChest
   bodyPart: Chest
   markingCategory: Chest
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/deathshead.rsi
     state: chest
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsDeathsheadLeftArm
   bodyPart: LHand
   markingCategory: Arms
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/deathshead.rsi
     state: leftarm
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsDeathsheadRightArm
   bodyPart: RHand
   markingCategory: Arms
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/deathshead.rsi
     state: rightarm
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsDeathsheadLeftLeg
   bodyPart: LFoot
   markingCategory: Legs
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/deathshead.rsi
     state: leftleg
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsDeathsheadRightLeg
   bodyPart: RFoot
   markingCategory: Legs
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/deathshead.rsi
     state: rightleg
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 # Poison
 - type: marking
   id: MothMarkingsPoisonHead
   bodyPart: Head
   markingCategory: Head
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/poison.rsi
     state: head
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsPoisonChest
   bodyPart: Chest
   markingCategory: Chest
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/poison.rsi
     state: chest
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsPoisonLeftArm
   bodyPart: LHand
   markingCategory: Arms
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/poison.rsi
     state: leftarm
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsPoisonRightArm
   bodyPart: RHand
   markingCategory: Arms
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/poison.rsi
     state: rightarm
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsPoisonLeftLeg
   bodyPart: LFoot
   markingCategory: Legs
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/poison.rsi
     state: leftleg
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsPoisonRightLeg
   bodyPart: RFoot
   markingCategory: Legs
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/poison.rsi
     state: rightleg
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 # Ragged
 - type: marking
   id: MothMarkingsRaggedHead
   bodyPart: Head
   markingCategory: Head
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/ragged.rsi
     state: head
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsRaggedChest
   bodyPart: Chest
   markingCategory: Chest
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/ragged.rsi
     state: chest
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsRaggedLeftArm
   bodyPart: LHand
   markingCategory: Arms
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/ragged.rsi
     state: leftarm
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsRaggedRightArm
   bodyPart: RHand
   markingCategory: Arms
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/ragged.rsi
     state: rightarm
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsRaggedLeftLeg
   bodyPart: LFoot
   markingCategory: Legs
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/ragged.rsi
     state: leftleg
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsRaggedRightLeg
   bodyPart: RFoot
   markingCategory: Legs
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/ragged.rsi
     state: rightleg
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 # Moonfly
 - type: marking
   id: MothMarkingsMoonflyHead
   bodyPart: Head
   markingCategory: Head
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/moonfly.rsi
     state: head
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsMoonflyChest
   bodyPart: Chest
   markingCategory: Chest
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/moonfly.rsi
     state: chest
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsMoonflyLeftArm
   bodyPart: LHand
   markingCategory: Arms
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/moonfly.rsi
     state: leftarm
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsMoonflyRightArm
   bodyPart: RHand
   markingCategory: Arms
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/moonfly.rsi
     state: rightarm
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsMoonflyLeftLeg
   bodyPart: LFoot
   markingCategory: Legs
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/moonfly.rsi
     state: leftleg
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsMoonflyRightLeg
   bodyPart: RFoot
   markingCategory: Legs
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/moonfly.rsi
     state: rightleg
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 # Oakworm
 - type: marking
   id: MothMarkingsOakwormHead
   bodyPart: Head
   markingCategory: Head
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/oakworm.rsi
     state: head
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsOakwormChest
   bodyPart: Chest
   markingCategory: Chest
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/oakworm.rsi
     state: chest
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsOakwormLeftArm
   bodyPart: LHand
   markingCategory: Arms
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/oakworm.rsi
     state: leftarm
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsOakwormRightArm
   bodyPart: RHand
   markingCategory: Arms
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/oakworm.rsi
     state: rightarm
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsOakwormLeftLeg
   bodyPart: LFoot
   markingCategory: Legs
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/oakworm.rsi
     state: leftleg
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsOakwormRightLeg
   bodyPart: RFoot
   markingCategory: Legs
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/oakworm.rsi
     state: rightleg
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 # Jungle
 - type: marking
   id: MothMarkingsJungleHead
   bodyPart: Head
   markingCategory: Head
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/jungle.rsi
     state: head
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsJungleChest
   bodyPart: Chest
   markingCategory: Chest
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/jungle.rsi
     state: chest
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsJungleLeftArm
   bodyPart: LHand
   markingCategory: Arms
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/jungle.rsi
     state: leftarm
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsJungleRightArm
   bodyPart: RHand
   markingCategory: Arms
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/jungle.rsi
     state: rightarm
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsJungleLeftLeg
   bodyPart: LFoot
   markingCategory: Legs
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/jungle.rsi
     state: leftleg
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsJungleRightLeg
   bodyPart: RFoot
   markingCategory: Legs
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/jungle.rsi
     state: rightleg
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 # Witchking
 - type: marking
   id: MothMarkingsWitchkingHead
   bodyPart: Head
   markingCategory: Head
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/witchking.rsi
     state: head
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsWitchkingChest
   bodyPart: Chest
   markingCategory: Chest
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/witchking.rsi
     state: chest
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsWitchkingLeftArm
   bodyPart: LHand
   markingCategory: Arms
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/witchking.rsi
     state: leftarm
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsWitchkingRightArm
   bodyPart: RHand
   markingCategory: Arms
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/witchking.rsi
     state: rightarm
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsWitchkingLeftLeg
   bodyPart: LFoot
   markingCategory: Legs
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/witchking.rsi
     state: leftleg
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
 
 - type: marking
   id: MothMarkingsWitchkingRightLeg
   bodyPart: RFoot
   markingCategory: Legs
-  forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
   - sprite: SpaceLabs/Mobs/Customization/moth_markings/witchking.rsi
     state: rightleg
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"

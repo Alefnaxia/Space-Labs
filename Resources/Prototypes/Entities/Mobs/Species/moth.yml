@@ -22,6 +22,7 @@
   - type: Damageable
     damageContainer: Biological
     damageModifierSet: Moth
+
   - type: Butcherable
     butcheringType: Spike
     spawned:
@@ -53,9 +54,15 @@
     heatDamage:
       types:
         Heat : 0.2 #per second, scales with temperature & other constants
+  - type: MobThresholds
+    thresholds:
+      0: Alive
+      85: Critical
+      185: Dead
   - type: Sprite # sprite again because we want different layer ordering
     noRot: true
     drawdepth: Mobs
+    scale: 0.9, 0.9
     layers:
       - map: [ "enum.HumanoidVisualLayers.Chest" ]
       - map: [ "enum.HumanoidVisualLayers.Head" ]
