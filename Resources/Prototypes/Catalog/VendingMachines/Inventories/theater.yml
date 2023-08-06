@@ -41,8 +41,15 @@
     ClothingUniformJumpsuitKimono: 1
     ClothingHeadHatCasa: 1
     ClothingHeadHatHairflower: 1
+    #SpaceLabs-start
+    ClothingUniformDressBluebowdress: 2
+    ClothingOuterDressluxuriantdress: 1
+    #SpaceLabs-end
   emaggedInventory:
     ClothingShoesBling: 1
     ClothingOuterDogi: 1
     ClothingMaskSexyClown: 1
     ClothingMaskSexyMime: 1
+    #SpaceLabs-start
+    ClothingUniformDressRubydress: 1
+    #SpaceLabs-end

@@ -41,6 +41,7 @@
       key_slots:
       - EncryptionKeyCargo
       - EncryptionKeyCommon
+      - EncryptionKeyMining
   - type: Sprite
     sprite: Clothing/Ears/Headsets/cargo.rsi
   - type: Clothing
@@ -52,6 +53,12 @@
   name: mining headset
   description: Headset used by shaft miners.
   components:
+  - type: ContainerFill
+    containers:
+      key_slots:
+      - EncryptionKeyCargo
+      - EncryptionKeyCommon
+      - EncryptionKeyMining
   - type: Sprite
     sprite: Clothing/Ears/Headsets/mining.rsi
   - type: Clothing
@@ -69,6 +76,7 @@
       - EncryptionKeyCargo
       - EncryptionKeyCommand
       - EncryptionKeyCommon
+      - EncryptionKeyMining
 
 - type: entity
   parent: ClothingHeadset
@@ -268,4 +276,3 @@
     sprite: Clothing/Ears/Headsets/service.rsi
   - type: Clothing
     sprite: Clothing/Ears/Headsets/service.rsi
-
