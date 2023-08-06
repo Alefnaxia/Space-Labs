@@ -1,0 +1,24 @@
+- type: entity
+  parent: ClothingUniformSkirtBase
+  id: ClothingUniformDressRubydress
+  name: Платье с рубином
+  description: Чёрное изящное платье с большим рубином в груди. Пахнет блеском и стариной.
+  components:
+  - type: Sprite
+    sprite: SpaceLabs/Clothing/Uniforms/Jumpskirt/rubydress.rsi
+  - type: Clothing
+    sprite: SpaceLabs/Clothing/Uniforms/Jumpskirt/rubydress.rsi    
+
+
+- type: entity
+  parent: ClothingUniformSkirtBase
+  id: ClothingUniformDressBluebowdress
+  name: Элегантное платье
+  description: Изящное платье с красивой синей ленточкой и бантом.
+  components:
+  - type: Sprite
+    sprite: SpaceLabs/Clothing/Uniforms/Jumpskirt/bluebowdress.rsi
+  - type: Clothing
+    sprite: SpaceLabs/Clothing/Uniforms/Jumpskirt/bluebowdress.rsi
+    
+    
