@@ -25,6 +25,6 @@
     back: ClothingBackpackSalvageFilled
     shoes: ClothingShoesBootsSalvage
     id: SalvagePDA
-    ears: ClothingHeadsetCargo
+    ears: ClothingHeadsetMining #Space-Labs
   satchel: ClothingBackpackSatchelSalvageFilled
   duffelbag: ClothingBackpackDuffelSalvageFilled

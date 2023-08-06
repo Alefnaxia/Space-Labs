@@ -307,7 +307,9 @@
   - type: StorageFill
     contents:
       - id: EncryptionKeyCargo
-        amount: 6
+        amount: 3
+      - id: EncryptionKeyMining
+        amount: 3
 
 - type: entity
   name: engineering encryption key box
