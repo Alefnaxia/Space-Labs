@@ -121,29 +121,6 @@
     # Space-Labs-Localization-End
 
  - type: emote
-   id: Chitter
-   category: Vocal
-   chatMessages: [Щебечет.]
-   chatTriggers:
-     - chitter
-     - chitter.
-     - chitter!
-     - chitters
-     - chitters.
-     - chitters!
-     - chittering
-     - chittering.
-     - chittering!
-     - chittered
-     - chittered.
-     - chittered!
-     # Space-labs-Localization-Start
-     - Щебечет
-     - Щебетать
-     # Space-labs-Localization-End
-
-
- - type: emote
    id: Bark
    category: Vocal
    chatMessages: [гавкает.]
