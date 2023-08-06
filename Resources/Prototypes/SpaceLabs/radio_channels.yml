@@ -1,0 +1,7 @@
+- type: radioChannel
+  id: Miners
+  name: Шахтерский
+  keycode: 'ш'
+  frequency: 2023
+  color: "#FF6600"
+  longRange: true
