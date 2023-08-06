@@ -7,7 +7,9 @@
   - type: Sprite
     sprite: SpaceLabs/Clothing/Uniforms/Jumpskirt/rubydress.rsi
   - type: Clothing
-    sprite: SpaceLabs/Clothing/Uniforms/Jumpskirt/rubydress.rsi
+    sprite: SpaceLabs/Clothing/Uniforms/Jumpskirt/rubydress.rsi    
+
+
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformDressBluebowdress
@@ -18,3 +20,5 @@
     sprite: SpaceLabs/Clothing/Uniforms/Jumpskirt/bluebowdress.rsi
   - type: Clothing
     sprite: SpaceLabs/Clothing/Uniforms/Jumpskirt/bluebowdress.rsi
+    
+    

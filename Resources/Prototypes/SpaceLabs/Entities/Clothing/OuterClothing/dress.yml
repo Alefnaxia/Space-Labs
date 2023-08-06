@@ -8,6 +8,8 @@
     sprite: SpaceLabs/Clothing/OuterClothing/Dress/wed_dress.rsi
   - type: Clothing
     sprite: SpaceLabs/Clothing/OuterClothing/Dress/wed_dress.rsi
+    
+    
 - type: entity
   parent: ClothingOuterBase
   id: ClothingOuterDressluxuriantdress
@@ -18,3 +20,5 @@
     sprite: SpaceLabs/Clothing/OuterClothing/Dress/luxuriantdress.rsi
   - type: Clothing
     sprite: SpaceLabs/Clothing/OuterClothing/Dress/luxuriantdress.rsi
+    
+    
