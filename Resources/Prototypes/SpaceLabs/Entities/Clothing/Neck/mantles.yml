@@ -1,0 +1,12 @@
+- type: entity
+  parent: ClothingNeckBase
+  id: ClothingNeckMantleCC
+  name: Мантия ЦК
+  description: Вычурная мантия с золотой бахромой для офицеров флота НаноТрейзен
+  components:
+  - type: Sprite
+    sprite: SpaceLabs/Clothing/Neck/mantles/CCmantle.rsi
+  - type: Clothing
+    sprite: SpaceLabs/Clothing/Neck/mantles/CCmantle.rsi
+    
+    

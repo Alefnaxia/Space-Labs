@@ -8,3 +8,15 @@
     sprite: SpaceLabs/Clothing/Uniforms/Jumpsuit/tuxedo.rsi
   - type: Clothing
     sprite: SpaceLabs/Clothing/Uniforms/Jumpsuit/tuxedo.rsi
+
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitTurtleneckHoP
+  name: водолазка главы персонала
+  description: Водолазка синего цвета, выглядящая удобной, тёплой и уютной.
+  components:
+  - type: Sprite
+    sprite: SpaceLabs/Clothing/Uniforms/Jumpsuit/hop_turtleneck.rsi
+  - type: Clothing
+    sprite: SpaceLabs/Clothing/Uniforms/Jumpsuit/hop_turtleneck.rsi
