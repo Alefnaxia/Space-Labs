@@ -8,6 +8,13 @@
   - SalvageSpecialist
 
 - type: department
+  id: Juridical
+  description: department-Juridical-description
+  color: "#944A00"
+  roles:
+  - IAA
+
+- type: department
   id: Civilian
   description: department-Civilian-description
   color: "#9FED58"
@@ -35,7 +42,6 @@
   color: "#334E6D"
   roles:
   - Captain
-  - IAA # Corvax-IAA
   - CentralCommandOfficial
   - ChiefEngineer
   - ChiefMedicalOfficer
