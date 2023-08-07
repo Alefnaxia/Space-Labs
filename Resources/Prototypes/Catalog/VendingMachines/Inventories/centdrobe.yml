@@ -16,9 +16,9 @@
     ClothingUniformJumpsuitCentcomFormal: 3
     ClothingUniformJumpskirtCentcomFormalDress: 3
     #SpaceLabs-start
-    ClothingBackpackCK: 3
-    ClothingBackpackSatchelCK: 3
-    ClothingBackpackDuffelCK: 3
+    ClothingBackpackCC: 3
+    ClothingBackpackSatchelCC: 3
+    ClothingBackpackDuffelCC: 3
     #SpaceLabs-end
     ClothingHeadHatCentcom: 3
     ClothingMaskGasCentcom: 3
@@ -26,6 +26,6 @@
     ClothingOuterWinterCentcom: 3
     ClothingNeckScarfStripedCentcom: 3
     #SpaceLabs-start
-    ClothingNeckMantleCK: 1
+    ClothingNeckMantleCC: 1
     #SpaceLabs-end
     
