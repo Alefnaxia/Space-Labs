@@ -193,6 +193,7 @@
     supportedChannels:
     - Common
     - Supply
+    - Miners
 
 - type: entity
   id: IntercomAll

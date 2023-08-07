@@ -1,0 +1,14 @@
+- type: entity
+  parent: EncryptionKey
+  id: EncryptionKeyMining
+  name: common encryption key
+  description: An encryption key used by anyone.
+  components:
+  - type: EncryptionKey
+    channels:
+    - Miners
+    defaultChannel: Miners
+  - type: Sprite
+    layers:
+    - state: crypt_orange
+    - state: miner_label
