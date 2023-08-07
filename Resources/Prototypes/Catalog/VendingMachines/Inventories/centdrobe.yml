@@ -6,12 +6,26 @@
     ClothingHandsGlovesCombat: 3
     ClothingEyesGlassesSunglasses: 3
     ClothingUniformJumpsuitCentcomOfficer: 3
+    #SpaceLabs-start
+    ClothingUniformJumpskirtCentcomOfficer: 3
+    #SpaceLabs-end
     ClothingUniformJumpsuitCentcomOfficial: 3
+    #SpaceLabs-start
+    ClothingUniformJumpskirtCentcomOfficial: 3
+    #SpaceLabs-end
     ClothingUniformJumpsuitCentcomFormal: 3
     ClothingUniformJumpskirtCentcomFormalDress: 3
+    #SpaceLabs-start
+    ClothingBackpackCK: 3
+    ClothingBackpackSatchelCK: 3
+    ClothingBackpackDuffelCK: 3
+    #SpaceLabs-end
     ClothingHeadHatCentcom: 3
     ClothingMaskGasCentcom: 3
     ClothingHeadsetCentCom: 3
     ClothingOuterWinterCentcom: 3
     ClothingNeckScarfStripedCentcom: 3
+    #SpaceLabs-start
+    ClothingNeckMantleCK: 1
+    #SpaceLabs-end
     
