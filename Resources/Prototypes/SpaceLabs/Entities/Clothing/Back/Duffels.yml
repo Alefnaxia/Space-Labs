@@ -1,9 +1,0 @@
-- type: entity
-  parent: ClothingBackpackDuffel
-  id: ClothingBackpackDuffelCC
-  name: Вещмешок ЦК
-  description: Большой вещмешок для офицера ЦК.
-  components:
-  - type: Sprite
-    sprite: SpaceLabs/Clothing/Back/Duffels/CC.rsi
-    
