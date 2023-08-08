@@ -23,6 +23,9 @@
     ClothingHeadHatCentcom: 3
     ClothingMaskGasCentcom: 3
     ClothingHeadsetCentCom: 3
+    #SpaceLabs-start
+    ClothingHeadsetAltCentCom: 3
+    #SpaceLabs-end
     ClothingOuterWinterCentcom: 3
     ClothingNeckScarfStripedCentcom: 3
     #SpaceLabs-start

@@ -1,8 +1,8 @@
 - type: entity
   parent: ClothingBackpack
   id: ClothingBackpackCC
-  name: Рюкзак ЦК
-  description: Рюкзах для офицера ЦК.
+  name: Рюкзак Центком
+  description: Рюкзах для офицера Центрального Командования.
   components:
   - type: Sprite
     sprite: SpaceLabs/Clothing/Back/Backpacks/CC.rsi

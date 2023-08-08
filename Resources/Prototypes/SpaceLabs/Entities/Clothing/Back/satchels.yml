@@ -1,8 +1,8 @@
 - type: entity
   parent: ClothingBackpackSatchel
   id: ClothingBackpackSatchelCC
-  name: Сумка ЦК
-  description: Сумка для офицера ЦК.
+  name: Сумка Центком
+  description: Сумка для офицера Центрального Командования.
   components:
   - type: Sprite
     sprite: SpaceLabs/Clothing/Back/Satchels/CC.rsi
