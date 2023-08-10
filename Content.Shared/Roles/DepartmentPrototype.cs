@@ -24,4 +24,6 @@ public sealed class DepartmentPrototype : IPrototype
     [ViewVariables(VVAccess.ReadWrite),
      DataField("roles", customTypeSerializer: typeof(PrototypeIdListSerializer<JobPrototype>))]
     public List<string> Roles = new();
+	
+	[DataField("sort")] public int Sort = default!;
 }
