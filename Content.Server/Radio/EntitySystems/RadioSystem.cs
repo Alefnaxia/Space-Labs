@@ -75,7 +75,11 @@ public sealed class RadioSystem : EntitySystem
 
         name = FormattedMessage.EscapeText(name);
 		
-		var formattedName = $"[color={GetIdCardColor(messageSource)}][bold]{GetIdCardName(messageSource)}{name}[/bold][/color]";
+		var formattedName = name;
+        if (TryComp<HumanoidAppearanceComponent>(messageSource, out var humanoidComp))
+        {
+            formattedName = $"[color={humanoidComp.SpeakerColor.ToHex()}]{GetIdCardName(messageSource)}{name}[/color]";
+        }
 
 
         // most radios are relayed to chat, so lets parse the chat message beforehand
@@ -171,12 +175,6 @@ public sealed class RadioSystem : EntitySystem
 
         return $"\\[{idCardTitle}\\] ";
     }
-	
-	private string GetIdCardColor(EntityUid senderUid)
-    {
-        return GetIdCard(senderUid)?.JobColor ?? "#9FED58";
-    }
-
 
     /// <inheritdoc cref="TelecomServerComponent"/>
     private bool HasActiveServer(MapId mapId, string channelId)

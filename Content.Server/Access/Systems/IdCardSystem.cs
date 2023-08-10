@@ -119,28 +119,6 @@ namespace Content.Server.Access.Systems
             return true;
         }
 
-        public bool TryChangeJobColor(EntityUid uid, string? jobColor, IdCardComponent? id = null, EntityUid? player = null)
-        {
-            if (!Resolve(uid, ref id))
-                return false;
-
-            if (id.JobColor == jobColor)
-                return true;
-
-            id.JobColor = jobColor;
-            Dirty(id);
-            UpdateEntityName(uid, id);
-
-            if (player != null)
-            {
-                _adminLogger.Add(LogType.Identity, LogImpact.Low,
-                    $"{ToPrettyString(player.Value):player} has changed the job color of {ToPrettyString(uid):entity} to {jobColor} ");
-            }
-
-            return true;
-        }
-
-
         public bool TryChangeJobIcon(EntityUid uid, StatusIconPrototype jobIcon, IdCardComponent? id = null, EntityUid? player = null)
         {
             if (!Resolve(uid, ref id))

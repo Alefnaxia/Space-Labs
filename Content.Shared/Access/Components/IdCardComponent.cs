@@ -20,11 +20,6 @@ namespace Content.Shared.Access.Components
         [AutoNetworkedField]
         [Access(typeof(SharedIdCardSystem), typeof(SharedPdaSystem), typeof(SharedAgentIdCardSystem), Other = AccessPermissions.ReadWrite)]
         public string? JobTitle;
-		
-		
-        [DataField("jobColor")]
-        [AutoNetworkedField]
-        public string? JobColor;
 
         /// <summary>
         /// The state of the job icon rsi.

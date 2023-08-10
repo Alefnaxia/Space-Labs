@@ -1,10 +1,10 @@
-using System.Linq;
 using Content.Server.Access.Components;
 using Content.Server.GameTicking;
 using Content.Server.Station.Components;
 using Content.Server.Station.Systems;
 using Content.Shared.Access.Systems;
 using Content.Shared.Roles;
+using Content.Shared.StatusIcon;
 using Robust.Shared.Prototypes;
 
 namespace Content.Server.Access.Systems
@@ -68,28 +68,12 @@ namespace Content.Server.Access.Systems
 
             _accessSystem.SetAccessToJob(uid, job, extended);
 
-            // and also change job title on a card id
             _cardSystem.TryChangeJobTitle(uid, job.LocalizedName);
 
-            _cardSystem.TryChangeJobColor(uid, GetJobColor(job));
-        }
-
-        private string GetJobColor(IPrototype job)
-        {
-            var jobCode = job.ID;
-
-            var departments = _prototypeManager.EnumeratePrototypes<DepartmentPrototype>().ToList();
-            departments.Sort((a, b) => a.Sort.CompareTo(b.Sort));
-
-            foreach (var department in from department in departments
-                     from jobId in department.Roles
-                     where jobId == jobCode
-                     select department)
+            if (_prototypeManager.TryIndex<StatusIconPrototype>(job.Icon, out var jobIcon))
             {
-                return department.Color.ToHex();
+                _cardSystem.TryChangeJobIcon(uid, jobIcon);
             }
-
-            return string.Empty;
         }
     }
 }
