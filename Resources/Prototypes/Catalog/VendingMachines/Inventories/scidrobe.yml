@@ -17,3 +17,9 @@
     ClothingMaskGas: 3
     ClothingOuterWinterSci: 2
     ClothingNeckScarfStripedPurple: 3
+    #SpaceLabs-start
+    BoxFolderBase: 5
+    Paper: 10
+    PaperOffice: 10
+    HandLabeler: 3 
+    #SpaceLabs-end
