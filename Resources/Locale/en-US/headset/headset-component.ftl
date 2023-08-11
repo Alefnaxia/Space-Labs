@@ -16,4 +16,3 @@ chat-radio-syndicate = Syndicate
 
 # not headset but whatever
 chat-radio-handheld = Handheld
-chat-radio-no-id = No ID
