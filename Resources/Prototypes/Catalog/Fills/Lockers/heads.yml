@@ -195,9 +195,9 @@
         amount: 3
       - id: BoxEncryptionKeyMedical
       #SpaceLabs-start
-      - id:CloningPodMachineCircuitboard
-      - id:MedicalScannerMachineCircuitboard
-      - id:CloningConsoleComputerCircuitboard
+      - id: CloningPodMachineCircuitboard
+      - id: MedicalScannerMachineCircuitboard
+      - id: CloningConsoleComputerCircuitboard
       #SpaceLabs-end
       
 - type: entity
@@ -227,9 +227,9 @@
         amount: 3
       - id: BoxEncryptionKeyMedical
       #SpaceLabs-start
-      - id:CloningPodMachineCircuitboard
-      - id:MedicalScannerMachineCircuitboard
-      - id:CloningConsoleComputerCircuitboard
+      - id: CloningPodMachineCircuitboard
+      - id: MedicalScannerMachineCircuitboard
+      - id: CloningConsoleComputerCircuitboard
       #SpaceLabs-end
 
 - type: entity
